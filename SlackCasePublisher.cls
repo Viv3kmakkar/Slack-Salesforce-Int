@@ -1,6 +1,9 @@
+/**
+ * @File Name          : SlackCasePublisher.cls
+*/
 public with sharing class SlackCasePublisher {
      
-    private static final String slackURL = 'https://hooks.slack.com/services/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';
+    private static final String slackURL = 'https://hooks.slack.com/services/T011xxxx0SH/B011ZBNPW4U/lprxxxxxxxxxxxxxxnu';
      
     public class Cases {
         @InvocableVariable(label='Case Name')
